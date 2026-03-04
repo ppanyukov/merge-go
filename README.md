@@ -1,5 +1,7 @@
 # merge-go
 
+**WORK IN PROGRESS**
+
 Deep clone and deep merge Go objects in an overlay manner. Results are full copies, not pointers to originals.
 
 ## Install
