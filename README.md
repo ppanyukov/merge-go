@@ -2,6 +2,8 @@
 
 **WORK IN PROGRESS**
 
+*NOTE*: There may be similar packages around esp. notably https://github.com/darccio/mergo but I'm not sure how that one compares to this. 
+
 Deep clone and deep merge Go objects in an overlay manner. Results are full copies, not pointers to originals.
 
 ## Install
